@@ -1,10 +1,7 @@
 ---
 layout: project
 title: ENGRD 2020 Portfolio
-
 description: Performance Analysis of Nutcracking Devices
-technologies:
-image:
 ---
 
 As part of our module on machines and mechanical advantage in ENGRD 2020: Statics and Mechanics of Solids, we analyzed a nutcracker device and how effective it would be for use on macadamia nuts. I reference a paper provided to us for the average force needed to crack a macadamia nut, as well as several online sources I used to find the average diameter of a macadamia nut.
